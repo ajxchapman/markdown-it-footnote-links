@@ -1,0 +1,22 @@
+{
+  "name": "markdown-it-footnote-links",
+  "version": "1.0.0",
+  "description": "Footnote links for markdown-it markdown parser.",
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
+    "markdown",
+    "footnotes",
+    "footnote-links"
+  ],
+  "repository": "noxrnet/markdown-it-footnote-links",
+  "license": "MIT",
+  "dependencies": {
+    "argparse": "^1.0.7",
+    "markdown-it": "^8.0.1"
+  },
+  "devDependencies": {
+    "markdown-it": "markdown-it/markdown-it",
+    "argparse": "^1.0.7"
+  }
+}
